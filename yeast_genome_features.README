@@ -1,1 +1,4 @@
-yeast_genome_features.txt was derived from the SGD saccharomyces_cerevisiae.gff file downloaded Jan 2022.
+The yeast_genome_features files were derived from the SGD GFF files available at:
+
+http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/
+

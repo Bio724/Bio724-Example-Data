@@ -1,0 +1,15 @@
+Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+1	assembled-molecule	1	Chromosome	AE017341.1	=	NC_006670.1	Primary Assembly	2300533	na
+2	assembled-molecule	2	Chromosome	AE017342.1	=	NC_006684.1	Primary Assembly	1632307	na
+3	assembled-molecule	3	Chromosome	AE017343.1	=	NC_006685.1	Primary Assembly	2105742	na
+4	assembled-molecule	4	Chromosome	AE017344.1	=	NC_006686.1	Primary Assembly	1783081	na
+5	assembled-molecule	5	Chromosome	AE017345.1	=	NC_006687.1	Primary Assembly	1507550	na
+6	assembled-molecule	6	Chromosome	AE017346.1	=	NC_006691.1	Primary Assembly	1438950	na
+7	assembled-molecule	7	Chromosome	AE017347.1	=	NC_006692.1	Primary Assembly	1347793	na
+8	assembled-molecule	8	Chromosome	AE017348.1	=	NC_006693.1	Primary Assembly	1194300	na
+9	assembled-molecule	9	Chromosome	AE017349.1	=	NC_006694.1	Primary Assembly	1178688	na
+10	assembled-molecule	10	Chromosome	AE017350.1	=	NC_006679.1	Primary Assembly	1085720	na
+11	assembled-molecule	11	Chromosome	AE017351.1	=	NC_006680.1	Primary Assembly	1019846	na
+12	assembled-molecule	12	Chromosome	AE017352.1	=	NC_006681.1	Primary Assembly	906719	na
+13	assembled-molecule	13	Chromosome	AE017353.1	=	NC_006682.1	Primary Assembly	787999	na
+14	assembled-molecule	14	Chromosome	AE017356.1	=	NC_006683.1	Primary Assembly	762694	na
